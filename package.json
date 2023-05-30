@@ -1,0 +1,25 @@
+{
+  "name": "devcamp_as_footer",
+  "version": "0.1.0",
+  "description": "This modul allows for a dynamic footer in JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliciaSD/devcamp_as_footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "alicia_sastre <aliciasstr@yahoo.es> (https://github.com/AliciaSD/devcamp_as_footer.git)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AliciaSD/devcamp_as_footer/issues"
+  },
+  "homepage": "https://github.com/AliciaSD/devcamp_as_footer#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
